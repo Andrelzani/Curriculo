@@ -1,0 +1,90 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #36626a; 
+    color:#f1d18a;
+}
+.nome{
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 5%;
+}
+.headernome{
+    margin-left:2%;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+section{
+    margin: 0% 15% 5% 15%;
+}
+
+.listmenu{
+    list-style: none;
+    display: inline;
+    padding: 1%;
+    border: 2px solid;
+    border-color:black;
+    margin-inline-end: 2%;   
+}
+.linkmenu{
+    text-decoration:none;
+}
+   
+.listmenu:hover{
+    background-color:azure;
+    border: none;
+}
+.fotoperf{
+    max-width: 170px;
+    border: 1px solid black;
+}
+
+.containerContato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listcont{
+    margin-left: 50px;
+}
+
+#experiencia{
+    list-style: none;
+    padding: 2px;
+    border: 2px solid;
+    border-color:black;
+    background-color:gray;      
+}
+
+#formacao{
+    list-style: none;
+    padding: 2px;
+    border: 2px solid;
+    border-color:black;
+    background-color:gray;  
+    margin-top: 15mm;  
+}
+#hobbies{
+    list-style: none;
+    padding: 2px;
+    border: 2px solid;
+    border-color:black;
+    background-color:gray;    
+}
+
+#contato{
+    list-style: none;
+    padding: 2px;
+    border: 2px solid;
+    border-color:black;   
+    background-color:gray;
+}
+
+#habitcomp{
+    list-style: none;
+    padding: 2px;
+    border: 2px solid;
+    border-color:black;   
+    background-color:gray;
+
+}
